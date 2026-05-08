@@ -1,0 +1,15 @@
+C:\grupo6\SumaArreglo\bin\Debug\net10.0\SumaArreglo.exe
+C:\grupo6\SumaArreglo\bin\Debug\net10.0\SumaArreglo.deps.json
+C:\grupo6\SumaArreglo\bin\Debug\net10.0\SumaArreglo.runtimeconfig.json
+C:\grupo6\SumaArreglo\bin\Debug\net10.0\SumaArreglo.dll
+C:\grupo6\SumaArreglo\bin\Debug\net10.0\SumaArreglo.pdb
+C:\grupo6\SumaArreglo\obj\Debug\net10.0\SumaArreglo.GeneratedMSBuildEditorConfig.editorconfig
+C:\grupo6\SumaArreglo\obj\Debug\net10.0\SumaArreglo.AssemblyInfoInputs.cache
+C:\grupo6\SumaArreglo\obj\Debug\net10.0\SumaArreglo.AssemblyInfo.cs
+C:\grupo6\SumaArreglo\obj\Debug\net10.0\SumaArreglo.csproj.CoreCompileInputs.cache
+C:\grupo6\SumaArreglo\obj\Debug\net10.0\SumaArreglo.sourcelink.json
+C:\grupo6\SumaArreglo\obj\Debug\net10.0\SumaArreglo.dll
+C:\grupo6\SumaArreglo\obj\Debug\net10.0\refint\SumaArreglo.dll
+C:\grupo6\SumaArreglo\obj\Debug\net10.0\SumaArreglo.pdb
+C:\grupo6\SumaArreglo\obj\Debug\net10.0\SumaArreglo.genruntimeconfig.cache
+C:\grupo6\SumaArreglo\obj\Debug\net10.0\ref\SumaArreglo.dll
